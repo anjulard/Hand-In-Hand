@@ -1,0 +1,12 @@
+header {
+    position:fixed;
+    height: 20px;
+    width:100%;
+    display: block;
+    overflow: hidden;
+  background-color: #708c8d;
+  padding: 20px 10px;
+  
+  margin:8px auto;
+  }
+  

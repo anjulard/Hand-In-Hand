@@ -1,0 +1,16 @@
+.Maincontainer{
+    background-image:url('../Images/student3.jpg');
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+    margin:40px auto;
+    font:white;
+      
+      margin:30px auto;
+     
+      background-size: 900ypx 100px; 
+      
+  background-size: cover;
+  width: 100%;
+  height: 100%;    
+  }
+  
